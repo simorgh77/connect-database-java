@@ -1,0 +1,1 @@
+delete from admin where username='sdfasdf' and password='sdfa';
